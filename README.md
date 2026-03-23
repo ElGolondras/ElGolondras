@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, soy ElGolondras 👋
+Hey, soy ElGolondras 👋
 
 ### 🎓 Estudiante de Informática · 💻 Desarrollador de Software
 
