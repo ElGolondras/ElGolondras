@@ -29,7 +29,7 @@ class ElGolondras:
  
 <div align="center">
  
-<img src="https://skillicons.dev/icons?i=python,javascript,java,cs,html,css,kotlin,php,laravel,mysql&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cs,html,css,kotlin,php,laravel,mysql" />
  
 </div>
  
