@@ -67,10 +67,10 @@ class ElGolondras:
 [![DigiHelp AI](https://github-readme-stats.vercel.app/api/pin/?username=ElGolondras&repo=DIGI_HELPBOT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF&icon_color=2563EB)](https://github.com/ElGolondras/DIGI_HELPBOT)
 
 **DigiHelp AI** — Chatbot de escritorio para soporte IT empresarial con:
--🤖 IA con LLaMA 3.3 70B vía Groq API
--🖼️ Análisis de imágenes con modelo de visión
--📄 Lectura de documentos PDF, Word y Excel
--🎬 Reproductor de tutoriales en video integrado
+- 🤖 IA con LLaMA 3.3 70B vía Groq API
+- 🖼️ Análisis de imágenes con modelo de visión
+- 📄 Lectura de documentos PDF, Word y Excel
+- 🎬 Reproductor de tutoriales en video integrado
 
 </div>
 
