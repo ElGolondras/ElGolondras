@@ -27,7 +27,7 @@ class ElGolondras:
  
 ### Lenguajes
  
-<div align="center">
+<div>
  
 <img src="https://skillicons.dev/icons?i=python,javascript,java,cs,html,css,kotlin,php,laravel,mysql" />
  
@@ -35,7 +35,7 @@ class ElGolondras:
  
 ### Herramientas y plataformas
  
-<div align="center">
+<div>
  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,supabase,docker&perline=6" />
  
