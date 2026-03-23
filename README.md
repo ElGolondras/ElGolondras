@@ -43,9 +43,9 @@ class ElGolondras:
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 <div align="center">
+
+## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElGolondras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF)
 
