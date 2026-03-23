@@ -14,7 +14,11 @@
 
 ---
 
+<div align="center">
+
 ## 🙋‍♂️ Sobre mí
+
+</div>
 
 ```python
 class ElGolondras:
@@ -26,19 +30,15 @@ class ElGolondras:
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes
 
-<div>
-
 <img src="https://skillicons.dev/icons?i=python,javascript,java,cs,html,css,kotlin,php,laravel,mysql" />
 
-</div>
-
 ### Herramientas y plataformas
-
-<div>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,supabase,docker&perline=6" />
 
