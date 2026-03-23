@@ -74,9 +74,9 @@ class ElGolondras:
 ---
 <div align="center">
 ## 📈 Actividad
-</div>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElGolondras&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElGolondras&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF)
+</div>
 ---
 
 <div align="center">
