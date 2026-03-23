@@ -1,9 +1,9 @@
-<!-- HEADER CON OLAS ANIMADAS -->
+<!-- HEADER ANIMADO -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:2563EB&height=220&section=header&text=ElGolondras&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Informática%20·%20Desarrollador%20de%20Software&descAlignY=58&descSize=18&descColor=94A3B8)
 
 <div align="center">
 
-<!-- EFECTO DE ESCRITURA ANIMADO -->
+<!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=👋+Hey%2C+soy+ElGolondras;🎓+Estudiante+de+Informática;💻+Desarrollador+de+Software;🤖+Creador+de+DigiHelp+AI;🚀+Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
 
 <br/>
@@ -15,7 +15,8 @@
 
 ---
 
-## 🙋‍♂️ Sobre mí
+<!-- SECCIÓN SOBRE MÍ CON BANNER ANIMADO -->
+![sobre-mi](https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2563EB&height=50&text=🙋‍♂️%20Sobre%20mí&fontSize=24&fontColor=ffffff&animation=blinking&fontAlign=15&fontAlignY=65)
 
 ```python
 class ElGolondras:
@@ -27,29 +28,27 @@ class ElGolondras:
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+<!-- SECCIÓN TECNOLOGÍAS CON BANNER ANIMADO -->
+![tecnologias](https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2563EB&height=50&text=🛠️%20Tecnologías%20y%20herramientas&fontSize=24&fontColor=ffffff&animation=blinking&fontAlign=22&fontAlignY=65)
+
+<div align="center">
 
 ### Lenguajes
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,javascript,java,cs,html,css,kotlin,php,laravel,mysql" />
 
-</div>
+<br/><br/>
 
 ### Herramientas y plataformas
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,supabase,docker&perline=6" />
 
 </div>
 
 ---
 
-<div align="center">
+<!-- SECCIÓN STATS CON BANNER ANIMADO -->
+![stats](https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2563EB&height=50&text=📊%20Estadísticas%20de%20GitHub&fontSize=24&fontColor=ffffff&animation=blinking&fontAlign=20&fontAlignY=65)
 
-## 📊 Estadísticas de GitHub
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElGolondras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF)
 
@@ -61,7 +60,8 @@ class ElGolondras:
 
 ---
 
-## 🚀 Proyectos destacados
+<!-- SECCIÓN PROYECTOS CON BANNER ANIMADO -->
+![proyectos](https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2563EB&height=50&text=🚀%20Proyectos%20destacados&fontSize=24&fontColor=ffffff&animation=blinking&fontAlign=18&fontAlignY=65)
 
 <div align="center">
 
@@ -77,9 +77,10 @@ class ElGolondras:
 
 ---
 
-<div align="center">
+<!-- SECCIÓN ACTIVIDAD CON BANNER ANIMADO -->
+![actividad](https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2563EB&height=50&text=📈%20Actividad&fontSize=24&fontColor=ffffff&animation=blinking&fontAlign=10&fontAlignY=65)
 
-## 📈 Actividad
+<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElGolondras&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=FFFFFF)
 
@@ -87,18 +88,21 @@ class ElGolondras:
 
 ---
 
+<!-- SECCIÓN CONTACTO CON BANNER ANIMADO -->
+![contacto](https://capsule-render.vercel.app/api?type=rect&color=0:1B2A4A,100:2563EB&height=50&text=💬%20¿Quieres%20conocer%20más%20sobre%20mí?&fontSize=22&fontColor=ffffff&animation=blinking&fontAlign=25&fontAlignY=65)
+
 <div align="center">
 
-### 💬 ¿Quieres conocer más sobre mí? ¡Hablemos!
+<br/>
 
 <a href="https://github.com/ElGolondras"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
 <a href="https://www.linkedin.com/in/juan-font%C3%A1n-clavijo-7968a93a0/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
 
----
+<br/><br/>
 
 ⭐ *Si alguno de mis proyectos te ha sido útil, ¡dale una estrella!*
 
 </div>
 
-<!-- FOOTER CON OLAS ANIMADAS -->
+<!-- FOOTER ANIMADO -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1B2A4A,100:0D1117&height=120&section=footer&animation=fadeIn)
