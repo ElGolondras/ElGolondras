@@ -1,5 +1,5 @@
 <!-- HEADER ANIMADO -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:2563EB&height=220&section=header&text=ElGolondras&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Informática%20·%20Desarrollador%20de%20Software&descAlignY=58&descSize=18&descColor=94A3B8&width=1500)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:2563EB&height=220&section=header&text=ElGolondras&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Informática%20·%20Desarrollador%20de%20Software&descAlignY=58&descSize=18&descColor=94A3B8" width="100%" />
 
 <div align="center">
 
@@ -100,4 +100,4 @@ class ElGolondras:
 </div>
 
 <!-- FOOTER ANIMADO -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1B2A4A,100:0D1117&height=120&section=footer&animation=fadeIn&width=1500)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1B2A4A,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" />
