@@ -30,7 +30,7 @@ class ElGolondras:
 
 ### Lenguajes
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=python,javascript,java,cs,html,css,kotlin,php,laravel,mysql" />
 
@@ -38,7 +38,7 @@ class ElGolondras:
 
 ### Herramientas y plataformas
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,supabase,docker&perline=6" />
 
@@ -62,7 +62,7 @@ class ElGolondras:
 
 ## 🚀 Proyectos destacados
 
-<div align="center">
+<div>
 
 [![DigiHelp AI](https://github-readme-stats.vercel.app/api/pin/?username=ElGolondras&repo=DIGI_HELPBOT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF&icon_color=2563EB)](https://github.com/ElGolondras/DIGI_HELPBOT)
 
