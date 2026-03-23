@@ -83,7 +83,8 @@ class ElGolondras:
 
 ### 💬 ¿Quieres conocer mas sobre mi? ¡Hablemos!
 
-[![GitHub](https://img.shields.io/badge/GitHub-ElGolondras-181717?style=for-the-badge&logo=github)](https://github.com/ElGolondras)
+<a href="https://github.com/ElGolondras"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
+<a href="https://www.linkedin.com/in/juan-font%C3%A1n-clavijo-7968a93a0/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
 
 ---
 
