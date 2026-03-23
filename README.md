@@ -16,7 +16,7 @@
 ```python
 class ElGolondras:
     rol        = ["Estudiante de Informática", "Desarrollador de Software"]
-    ubicacion  = "España 🇪🇸"
+    ubicacion  = ["España 🇪🇸"]
     aprendiendo = ["IA aplicada", "Desarrollo de escritorio", "APIs REST", "Multiple lenguajes de programacion"]
     proyectos  = ["DigiHelp AI, MZ2.0, Mantenimiento_Dispositivos"]
 ```
