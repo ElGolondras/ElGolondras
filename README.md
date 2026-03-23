@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, soy Elmen 👋
+# Hey, soy ElGolondras 👋
 
 ### 🎓 Estudiante de Informática · 💻 Desarrollador de Software
 
@@ -14,32 +14,32 @@
 ## 🙋‍♂️ Sobre mí
 
 ```python
-class Elmen:
+class ElGolondras:
     rol        = ["Estudiante de Informática", "Desarrollador de Software"]
     ubicacion  = "España 🇪🇸"
-    aprendiendo = ["IA aplicada", "Desarrollo de escritorio", "APIs REST"]
-    proyectos  = ["DigiHelp AI — Chatbot de soporte IT con IA"]
-    fun_fact   = "Construí un chatbot con IA antes de terminar mis estudios 🤖"
+    aprendiendo = ["IA aplicada", "Desarrollo de escritorio", "APIs REST", "Multiple lenguajes de programacion"]
+    proyectos  = ["DigiHelp AI, MZ2.0, Mantenimiento_Dispositivos"]
 ```
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-
+ 
 ### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+ 
+<div align="center">
+ 
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cs,html,css,kotlin,php,laravel,mysql&perline=5" />
+ 
+</div>
+ 
 ### Herramientas y plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+ 
+<div align="center">
+ 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,supabase,docker&perline=6" />
+ 
+</div>
 
 ---
 
@@ -59,7 +59,7 @@ class Elmen:
 
 ## 🚀 Proyectos destacados
 
-<div align="center">
+<div>
 
 [![DigiHelp AI](https://github-readme-stats.vercel.app/api/pin/?username=ElGolondras&repo=DIGI_HELPBOT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF&icon_color=2563EB)](https://github.com/ElGolondras/DIGI_HELPBOT)
 
@@ -81,7 +81,7 @@ class Elmen:
 
 <div align="center">
 
-### 💬 ¿Tienes algún proyecto interesante? ¡Hablemos!
+### 💬 ¿Quieres conocer mas sobre mi? ¡Hablemos!
 
 [![GitHub](https://img.shields.io/badge/GitHub-ElGolondras-181717?style=for-the-badge&logo=github)](https://github.com/ElGolondras)
 
