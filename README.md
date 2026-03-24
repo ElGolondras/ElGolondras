@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=👋+Hey%2C+soy+ElGolondras;🎓+Estudiante+de+Informática;💻+Desarrollador+de+Software;🤖+Creador+de+DigiHelp+AI;🚀+Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
 
-https://elgolondras.github.io/ElGolondras.github.io./
-
 <br/>
 
 [![Visits](https://komarev.com/ghpvc/?username=ElGolondras&style=for-the-badge&color=2563EB&label=VISITAS)](https://github.com/ElGolondras)
